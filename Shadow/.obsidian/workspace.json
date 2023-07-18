@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "6edc40fdc850913d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e652603aee67e5fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3345e1e58621141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/LRU Cache.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a7f5b283e5a618f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a088df577025c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8560c9e5514175e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c5d354aa2e31e20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bba25ffa47a7f88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ed3a017cd4125be",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3ee2dbd8de4ac8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0429cb86ddafb223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16f1b2d887525cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problems/LRU Cache.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c96172af3642b5d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Problems/LRU Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65cea5d127b5ce8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6279482fcd3fbdcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Problems/LRU Cache.md"
+              }
+            }
+          },
+          {
+            "id": "71f3c918462d4531",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d95e56ee2a8e4f55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "d3345e1e58621141",
+  "lastOpenFiles": [
+    "2023-07-18.md",
+    "Problems/LRU Cache.md",
+    "Problems/Untitled.canvas",
+    "Algorithms",
+    "Problems",
+    "Algorithms/Dijkstra's algorithm.md",
+    "Doubly Linked List.md",
+    "Attatchments",
+    "HashMap.md",
+    "Attatchments/Pasted image 20230718112143.png",
+    "linked list.md",
+    "Untitled.canvas",
+    "Test.md",
+    "documents/obsidian/AudioNote-2023-07-18T04-22-32.945Z.webm",
+    "documents/obsidian",
+    "documents",
+    "third.md",
+    "teswt 2.md"
+  ]
+}
